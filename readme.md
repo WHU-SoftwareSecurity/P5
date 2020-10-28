@@ -14,7 +14,7 @@
   - 获取 `file_path` 文件簇链信息
   - `-s` 打印簇链
   - 支持 FAT32 和 NTFS
-- `load_dlll.exe encrypt  -f {file_path} -k {key_path}`
+- `load_dll.exe encrypt  -f {file_path} -k {key_path}`
   - 对文件进行加密
   - 仅支持 NTFS
 - `load_dll.exe decrypt -f {file_path} -k {key_path}`

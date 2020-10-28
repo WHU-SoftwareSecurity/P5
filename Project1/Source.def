@@ -1,0 +1,6 @@
+LIBRARY "Project1"
+EXPORTS
+	_GetDiskPartion
+	_GetFileCluster
+	_EncodedFileByCluster
+	_DecodedFileByCluster
